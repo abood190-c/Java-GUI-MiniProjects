@@ -20,7 +20,7 @@ This is a collection of small Java GUI applications built using `Swing`. It incl
 2. Clone this repository.
 3. Compile and run `Main.java` using the terminal:
 
-src/
+## src/
 1. Main.java      # Main entry point
 2. img/           # (Optional) Images used in GUI
 
